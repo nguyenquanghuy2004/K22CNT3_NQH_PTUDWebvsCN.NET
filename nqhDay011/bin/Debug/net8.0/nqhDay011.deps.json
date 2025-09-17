@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "nqhDay011/1.0.0": {
+        "runtime": {
+          "nqhDay011.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nqhDay011/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
